@@ -15,6 +15,6 @@ Hello! My name is Ryan Feller, and I am a 17 year old student. I have held an in
 
 # Contact
 
-**Email:** ryanff72@gmail.com
+**Email:** ryanff72@gmail.com <br>
 **Linkedin:** https://www.linkedin.com/in/ryan-feller-b66783220/
 
