@@ -1,7 +1,7 @@
 ---
 layout: page
 home-title: Ryan Feller
-description: Game Developer, Programmer and Student
+description: Game Developer, Programmer, and Student
 ---
 
 # About me
